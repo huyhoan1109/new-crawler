@@ -1,0 +1,167 @@
+{
+  "16": {
+    "name": "16+"
+  },
+  "": {
+    "name": "Tất cả thể loại"
+  },
+  "action-95": {
+    "name": "Action"
+  },
+  "truong-thanh": {
+    "name": "Adult"
+  },
+  "adventure": {
+    "name": "Adventure"
+  },
+  "anime": {
+    "name": "Anime"
+  },
+  "chuyen-sinh-213": {
+    "name": "Chuyển Sinh"
+  },
+  "comedy-99": {
+    "name": "Comedy"
+  },
+  "comic": {
+    "name": "Comic"
+  },
+  "cooking": {
+    "name": "Cooking"
+  },
+  "co-dai-207": {
+    "name": "Cổ Đại"
+  },
+  "doujinshi": {
+    "name": "Doujinshi"
+  },
+  "drama-103": {
+    "name": "Drama"
+  },
+  "dam-my": {
+    "name": "Đam Mỹ"
+  },
+  "ecchi": {
+    "name": "Ecchi"
+  },
+  "fantasy-105": {
+    "name": "Fantasy"
+  },
+  "gender-bender": {
+    "name": "Gender Bender"
+  },
+  "harem-107": {
+    "name": "Harem"
+  },
+  "historical": {
+    "name": "Historical"
+  },
+  "horror": {
+    "name": "Horror"
+  },
+  "josei": {
+    "name": "Josei"
+  },
+  "live-action": {
+    "name": "Live action"
+  },
+  "manga-112": {
+    "name": "Manga"
+  },
+  "manhua": {
+    "name": "Manhua"
+  },
+  "manhwa-11400": {
+    "name": "Manhwa"
+  },
+  "martial-arts": {
+    "name": "Martial Arts"
+  },
+  "mature": {
+    "name": "Mature"
+  },
+  "mecha-117": {
+    "name": "Mecha"
+  },
+  "mystery": {
+    "name": "Mystery"
+  },
+  "ngon-tinh": {
+    "name": "Ngôn Tình"
+  },
+  "one-shot": {
+    "name": "One shot"
+  },
+  "psychological": {
+    "name": "Psychological"
+  },
+  "romance-121": {
+    "name": "Romance"
+  },
+  "school-life": {
+    "name": "School Life"
+  },
+  "sci-fi": {
+    "name": "Sci-fi"
+  },
+  "seinen": {
+    "name": "Seinen"
+  },
+  "shoujo": {
+    "name": "Shoujo"
+  },
+  "shoujo-ai-126": {
+    "name": "Shoujo Ai"
+  },
+  "shounen-127": {
+    "name": "Shounen"
+  },
+  "shounen-ai": {
+    "name": "Shounen Ai"
+  },
+  "slice-of-life": {
+    "name": "Slice of Life"
+  },
+  "smut": {
+    "name": "Smut"
+  },
+  "soft-yaoi": {
+    "name": "Soft Yaoi"
+  },
+  "soft-yuri": {
+    "name": "Soft Yuri"
+  },
+  "sports": {
+    "name": "Sports"
+  },
+  "supernatural": {
+    "name": "Supernatural"
+  },
+  "tap-chi-truyen-tranh": {
+    "name": "Tạp chí truyện tranh"
+  },
+  "thieu-nhi": {
+    "name": "Thiếu Nhi"
+  },
+  "tragedy-136": {
+    "name": "Tragedy"
+  },
+  "trinh-tham": {
+    "name": "Trinh Thám"
+  },
+  "truyen-scan": {
+    "name": "Truyện scan"
+  },
+  "truyen-mau": {
+    "name": "Truyện Màu"
+  },
+  "viet-nam": {
+    "name": "Việt Nam"
+  },
+  "webtoon": {
+    "name": "Webtoon"
+  },
+  "xuyen-khong-205": {
+    "name": "Xuyên Không"
+  }
+}

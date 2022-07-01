@@ -26,6 +26,7 @@ async function category(req, res) {
         }
         });
         res.send(json_data);
+        
       } catch (error) {
         const { message, name } = error;
         res.send({

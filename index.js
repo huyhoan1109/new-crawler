@@ -16,25 +16,13 @@ app.use(function (req, res, next) {
 app.use('/', routes);
 
 app.get('/', (req, res) => {
-  const list = [
-    {
-      title: 'List truyện',
-      path: '/list',
-    },
-    {
-      title: 'Tìm truyện',
-      path: '/search',
-    },
-    {
-      title: 'Lọc truyện',
-      path: '/filter',
-    },
-    {
-      title: 'Thể loại',
-      path: '/category',
-    },
-  ];
-  res.send(JSON.stringify(list));
+  const t = {};
+  t['/list'] = 'List truyện';
+  t['/search'] = 'Tìm truyện';
+  t['/filter'] = 'Lọc truyện';
+  t['/category'] = 'Thể loại';
+  res.send(JSON.stringify(t, null, 2));
 });
+//  res.send(JSON.stringify(list)));
 
 app.listen(port, console.log(`App listening at http://localhost:${port}`));
