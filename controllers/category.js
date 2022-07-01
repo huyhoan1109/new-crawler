@@ -1,5 +1,6 @@
 const helpers = require('../helpers');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 async function category(req, res) {
     const getData = async () => {

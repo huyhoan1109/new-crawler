@@ -1,5 +1,6 @@
 const helpers = require('../helpers');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 async function search(req, res) {
   const { page = 1, q } = req.query;
