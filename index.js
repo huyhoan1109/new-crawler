@@ -23,6 +23,5 @@ app.get('/', (req, res) => {
   t['/category'] = 'Thể loại';
   res.send(JSON.stringify(t, null, 2));
 });
-//  res.send(JSON.stringify(list)));
 
 app.listen(port, console.log(`App listening at http://localhost:${port}`));
